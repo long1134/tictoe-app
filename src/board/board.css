@@ -1,0 +1,12 @@
+.Board::after
+{
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.Board
+{
+    width: 160px;
+    margin-left: 20px;
+}
